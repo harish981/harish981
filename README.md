@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harishwar reddy</h1>
+<h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
 - 🌱 I’m currently learning **Devops, AWS, Linux, Finops and Security**
@@ -11,8 +11,13 @@
 
 - 📫 How to reach me **gundumallaharishwarreddy@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="/https://wordpress.org/news/2024/11/wordpress-6-7-1-maintenance-release/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://wordpress.org/news/2024/11/wordpress-6-7-1-maintenance-release/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
